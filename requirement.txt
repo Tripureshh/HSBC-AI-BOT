@@ -1,0 +1,5 @@
+langchain
+langchain_cohere
+pypdf
+huggingface_hub
+chromadb
